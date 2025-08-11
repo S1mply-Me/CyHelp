@@ -1,2 +1,2 @@
 
-A chatbot that helps to teach basic cybersecurity principles.
+CyHelp is a chatbot that introduces basic cybersecurity principles to beginners.
